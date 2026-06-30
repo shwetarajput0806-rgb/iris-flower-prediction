@@ -54,11 +54,3 @@ Target Classes:
 - Versicolor
 - Virginica
 
----
-
-## Project Structure
-
-```bash
-├── Streamlit_app.py
-├── requirements.txt
-├── README.md
